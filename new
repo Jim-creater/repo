@@ -1,0 +1,41 @@
+[33mcommit e098d00e14b3a2754e36a24b19eb5e7fe74d6262[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mbranch-2-1[m[33m, [m[1;32mbranch-2[m[33m)[m
+Author: James <kach3012@gmail.com>
+Date:   Thu Oct 15 19:49:10 2020 +0300
+
+    new file-2-1.txt
+
+[33mcommit 5609646e452aac22cf653242ab10b0dfc6c0c7d8[m
+Author: James <kach3012@gmail.com>
+Date:   Thu Oct 15 19:47:01 2020 +0300
+
+    some new files
+
+[33mcommit 0bc40195a142ca468398d5e8ede63d9888cbccc1[m[33m ([m[1;31morigin/branch-2-1[m[33m, [m[1;31morigin/branch-2[m[33m)[m
+Author: James <kach3012@gmail.com>
+Date:   Tue Oct 13 19:11:46 2020 +0300
+
+    add new file branch2.txt
+
+[33mcommit 700cd2167fa928c53a1694600a6cf534c5a9971a[m[33m ([m[1;31morigin/test-branch[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mtest-branch[m[33m)[m
+Author: James <kach3012@gmail.com>
+Date:   Sat Oct 10 20:49:21 2020 +0300
+
+    new changes in readme.md
+
+[33mcommit f1c70cb4e7a9aecf43598556a2538836d40a6507[m
+Author: James <kach3012@gmail.com>
+Date:   Fri Oct 9 23:27:29 2020 +0300
+
+    add хз как называется.md
+
+[33mcommit ce443a6b91c4ab41b8a5fc113277f49e97537fe3[m
+Author: James <kach3012@gmail.com>
+Date:   Fri Oct 9 23:17:18 2020 +0300
+
+    hi mark
+
+[33mcommit 9b3325a2481fa3f298b954f8861ee48ca48a0ef5[m
+Author: James <kach3012@gmail.com>
+Date:   Fri Oct 9 23:12:11 2020 +0300
+
+    ignore set up
